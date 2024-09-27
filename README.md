@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,react,ts,py,django,docker,postgres)](https://skillicons.dev)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buncho08&hide_progress=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buncho08)](https://github.com/anuraghazra/github-readme-stats)
