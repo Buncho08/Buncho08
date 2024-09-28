@@ -1,9 +1,11 @@
 <h1>🙌Hi! I'm Yuchika‪𓅪‬</h1>
 
-
 🐥⸒⸒ beginner software/web developer.
+
 ︎💕︎︎ I love Birds, and developing web applications!
+
 ✨ I'm interested in studying software architecture and improving application performance. 
+
 🐳 Particularly interested in microservices architecture!
 
 <h2>💻Skils</h2>
@@ -18,10 +20,14 @@
 [![My Skills](https://skillicons.dev/icons?i=py,django,nextjs,unity,arduino)](https://skillicons.dev)
 
 <h2>👀 ̖́-‬ And more...</h2>
+
 🎨 I love illustration!
+
 🧸 and making 3D/2D models. 
+
 😭 game developing is not my forte.
 but, I loooove playing games︎💕︎︎🌼
+
 💖 I support creators!
 
 ~ここにpixivのURLと画像を置きたい
