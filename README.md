@@ -1,9 +1,8 @@
-<h1 style="color:red;">HELLO EVERYONE!!</h1>
+<h1>🙌Hi! I'm Yuchika‪𓅪‬</h1>
 
-- 👋 Hi, I’m @Buncho08
-- 👀 I’m interested in java sparrow
-- 🌱 I’m currently learning web app.
-- 📫 don't reach me.
+
+<h2>🐥About me</h2>
+🐥⸒⸒ i'm beginner engineer.
 
 <!---
 Buncho08/Buncho08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
