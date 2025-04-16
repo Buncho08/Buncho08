@@ -4,15 +4,12 @@
 
 ︎💕︎︎ I love Birds, and developing web applications!
 
-✨ I'm interested in studying software architecture and improving application performance. 
-
-🐳 Particularly interested in microservices architecture!
 
 <h2>💻Skils</h2>
 
 <h3>🏢Daily use...</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,postgres,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,postgres,docker)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,react,ts,vite)](https://skillicons.dev)
 
 <h3>💡hobby, experience</h3>
